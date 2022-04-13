@@ -8,4 +8,4 @@ Create an application that generates a random password based on user-selected cr
 # Deployed Links 
 
 REPO : https://github.com/anjulituck/challengethree-passwordgenerator.git
-GITHUB PAGES: 
+GITHUB PAGES: https://anjulituck.github.io/challengethree-passwordgenerator/
