@@ -101,13 +101,10 @@ function writePassword() {
   for( var i =0; i < length; i++){
     var passwordOptions = options[Math.floor(Math.random() * options.length)];
     password.push(passwordOptions);
-  
   }
-
     var ps = password.join("");
     UserInput(ps);
     return ps;
-
 };
 
   var password = writePassword();
